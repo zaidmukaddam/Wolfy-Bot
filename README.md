@@ -1,6 +1,10 @@
 # Wolfy
 Discord bot connected to Wolfram Alpha API 
 
+## Authentication
+
+To start using Wolfy in your server just sign in with your Discord account and Enable Wolfy in your server and start having fun https://discord.com/api/oauth2/authorize?client_id=922530589851131955&permissions=2147543040&scope=bot
+
 ## Usability
 By using Wolfy, you will be able to resolve mathematical, calculus and ecuation expressions directly into any Discord text channel on your Discord Server. Here are some examples on what you will be capable of.
 

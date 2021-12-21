@@ -34,7 +34,7 @@ async def wolfyhelp(ctx):
     embed.add_field(name="wolfy(2)",
                     value='!wolfy sin(pi) => 0')
     embed.add_field(name="wolfyplot",
-                    value='!wolfyplot [1,2,3,4] [2,4,9,16] => plot using coordenates')
+                    value='!wolfyplot [1,2,3,4] [2,4,9,16] => plot using coordinates')
     embed.add_field(name="wolfyplotf",
                     value='!wolfyplotf x**2 => plot using symbolic function')
     embed.set_author(name=bot.user.name)
